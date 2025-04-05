@@ -1,12 +1,12 @@
 # sheet-music
 
-Noncommercial use only.
+Noncommercial use.
 
 # Sheet Music Summaries
 
 ## a_stream_a_rock_with_trees.pdf
 
-The made some changes to the sheet music and it does not exactly match the what I played on YouTube.
+Made some changes to the sheet music. It does not exactly match what I played on YouTube.
 
 YouTube link: https://www.youtube.com/watch?v=34Di1Okb6h8
 
